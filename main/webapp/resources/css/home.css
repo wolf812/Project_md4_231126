@@ -1,0 +1,119 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.col-2 {
+    background-color: #4A4B68;
+    height: 789px;
+}
+
+.home-header-p {
+    width: 583px;
+    height: 66px;
+    padding: 13px 8px;
+    font-size: 16px;
+    color: #424242;
+    margin-top: 29px;
+    margin-right: 50px;
+}
+
+.main-text h2 {
+    width: 776px;
+    height: 90px;
+    font-size: 36px;
+    color: #4F4F4F;
+    margin-top: 27px;
+    margin-left: 130px;
+    text-align: center;
+}
+
+.main-text p {
+    width: 432px;
+    height: 30px;
+    font-size: 20px;
+    color: #4F4F4F;
+    margin-top: 15px;
+    margin-left: 350px;
+}
+
+.nav-home > ul li a {
+    color: white;
+    font-size: 14px;
+}
+
+.nav-home > ul li img {
+    width: 16px;
+    height: 16px;
+}
+
+.logo-rikkei {
+    width: 30%;
+    height: 30%;
+    margin-top: 13%;
+    margin-left: 35%;
+}
+
+.aside p {
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 10%;
+    margin-bottom: 24px;
+}
+
+.aside hr {
+    border: 1px solid;
+    color: #BDBDBD;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    margin-bottom: 35px;
+    justify-content: flex-end;
+}
+
+.header img {
+    width: 3%;
+    height: 3%;
+    margin-top: 3%;
+}
+
+.header button {
+    height: 100%;
+    width: 11%;
+    margin-top: 3%;
+    border-radius: 8px;
+    margin-right: 7%;
+    margin-left: 48px;
+}
+
+.form-tim-kiem {
+    margin-left: 3%;
+    margin-top: 5px;
+    width: 90%;
+}
+
+.khong-co-sv {
+    width: 80%;
+    margin-top: 13%;
+    margin-left: 5%;
+
+}
+
+.duong-link {
+    width: 90%;
+    margin-left: 3%;
+
+}
+
+ul li:hover {
+    background-color: #446DBB;
+}
+
+a {
+    text-decoration: none;
+
+}

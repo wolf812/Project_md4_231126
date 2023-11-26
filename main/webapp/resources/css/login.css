@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    border: 1px solid;
+    width: 480px;
+    height: 465px;
+    margin-top: 218px;
+    border-radius: 9px;
+}
+
+.tieu-de {
+    width: 359px;
+    height: 63px;
+    margin-top: 48px;
+    margin-left: 62px;
+    text-align: center;
+}
+
+.tieu-de h3 {
+    size: 26px;
+    color: #181C32;
+}
+
+.tieu-de p {
+    size: 18px;
+    color: #B5B5C3;
+}
+
+.content {
+    margin-left: 50px;
+    width: 380px;
+    height: 79px;
+}
+
+button {
+    width: 171px;
+    height: 48px;
+    border-radius: 6px;
+    margin-left: 105px;
+    margin-top: 30px;
+}
+
+input[type=text],
+input[type=password] {
+    background-color: #F5F8FA;
+}
+
+.img {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
